@@ -1,8 +1,8 @@
 # carouselslider clickble
 ScreenShot 
-![alt text](https://github.com/alaeddinpro/carouselslider/image/az.PNG?raw=true)
-![alt text](https://github.com/alaeddinpro/carouselslider/image/ar.PNG?raw=true)
-![alt text](https://github.com/alaeddinpro/carouselslider/image/ae.PNG?raw=true)
+![alt text](https://github.com/alaeddinpro/carouselslider/blob/main/image/az.PNG?raw=true)
+![alt text](https://github.com/alaeddinpro/carouselslider/blob/main/image/ar.PNG?raw=true)
+![alt text](https://github.com/alaeddinpro/carouselslider/blob/main/image/ae.PNG?raw=true)
 A new Flutter project.
 
 ## Getting Started
